@@ -149,7 +149,7 @@ else if (a < b) {
     console.log('===');
 }
 
-let jnum= prompt("Введіть щонебудь");
+let jnum= prompt("Введіть 0");
 let j = 0;
 if (!j) {
     j = "default";
