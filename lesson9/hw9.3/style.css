@@ -20,14 +20,13 @@
 
 .monthDuration,
 .hourDuration {
-    background-color: #e0e0e0;
     padding: 10px;
     flex: 1;
     text-align: center;
 }
 
 .modules {
-    background-color: #f1f1f1;
+
     padding: 10px;
     border-radius: 5px;
 }
