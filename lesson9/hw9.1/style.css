@@ -1,0 +1,15 @@
+.wrap {width: 200px;
+    height: 200px;
+    background-color: lightblue;
+}
+.collapse {
+    padding: 10px;
+}
+.alpha {
+    font-size: 20px;
+    color: darkblue;
+}
+.beta {
+    border: 1px solid blue;
+}
+
